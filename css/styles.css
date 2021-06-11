@@ -1,0 +1,138 @@
+body{
+
+  margin: 0;
+  text-align: center;
+  font-family:"Merriweather",serif;
+  background-color: #d7fbe8;
+}
+h1
+{
+  color: #2f5d62;
+  font-size: 562.5%;/*100%=16px=1rem*/
+  margin-top: 0;
+  margin-bottom:auto;
+  padding-top:150px;
+  font-family: 'Sacramento', cursive;
+}
+p{
+  line-height: 200%;
+}
+hr{
+  color: grey;
+  margin: 100px auto 100px auto;
+  border-style: dotted;
+  border-bottom: 0;
+  border-width: 10px;
+  width: 30px;
+
+}
+.contact-message{
+  width:30%;
+  margin: 100px auto;
+}
+.btn {
+  background: #e2f0e5;
+  background-image: -webkit-linear-gradient(top, #e2f0e5, #619c5e);
+  background-image: -moz-linear-gradient(top, #e2f0e5, #619c5e);
+  background-image: -ms-linear-gradient(top, #e2f0e5, #619c5e);
+  background-image: -o-linear-gradient(top, #e2f0e5, #619c5e);
+  background-image: linear-gradient(to bottom, #e2f0e5, #619c5e);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+    font-family:"Merriweather",serif;
+  color: #085417;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+
+  background: #bce8c5;
+  background-image: -webkit-linear-gradient(top, #bce8c5, #31b533);
+  background-image: -moz-linear-gradient(top, #bce8c5, #31b533);
+  background-image: -ms-linear-gradient(top, #bce8c5, #31b533);
+  background-image: -o-linear-gradient(top, #bce8c5, #31b533);
+  background-image: linear-gradient(to bottom, #bce8c5, #31b533);
+  text-decoration: none;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+
+}
+h2{
+  color: #2f5d62;
+
+  font-family: "Montserrat",sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+h3{
+  color: #5e8b7e;
+  font-family: "Montserrat",sans-serif;
+}
+.intro{
+width:30%;
+margin: auto;
+
+}
+.bottom-container{
+  background-color: #cee5d0;
+  padding: 50px 0 20px 0;
+  margin: 100px auto 0 auto;
+}
+.ul{
+  text-decoration: underline;
+}
+.top{
+  margin: 0 0 100px 0;
+  background-color: #cee5d0;
+
+}
+.footer-link{
+  margin: 10px 20px;
+  font-family: "Montserrat",sans-serif;
+  text-decoration: none;
+  color: green;
+}
+.footer-link:hover{
+  color: white;
+}
+img{
+  background-color: #cee5d0;
+}
+.mountain{
+  position: relative;
+
+  height:400px;
+  width:600px;
+}
+.copyright{
+  color: white;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+.cloud1{
+  position: absolute;
+  left: 110px;
+  width: 250px;
+  height: 150px;
+}
+
+.cloud{
+  position: absolute;
+  right: 100px;
+  width: 250px;
+  height: 150px;
+
+
+}
+.fariz{
+  width:200px;
+  height:200px;
+  border-radius: 100%;
+}
